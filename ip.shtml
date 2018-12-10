@@ -1,0 +1,29 @@
+<title>Mi ip es...</title>
+<link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA/4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEREREREREREQAAAAAAAAARAAAAAAAAABEAAAAAAAAAEQAAAAAAAAARAAAAAAAAABEAAAAAAAAAEQAAAAAAAAARAAAAAAAAABEAAAAAAAAAEQAAAAAAAAARAAAAAAAAABEAAAAAAAAAEQAAAAAAAAARAAAAAAAAABEREREREREREAAAAAf/4AAH/+AABX7gAAV/4AAFfuAABX7gAAUe4AAFb2AABW+gAAVroAAFa6AABRxgAAf/4AAH/+AAAAAAAA" rel="icon" type="image/x-icon" />
+
+<style>
+html, body {
+	background:#FFFFEE;
+	color:#800000;
+}
+
+
+	color:#707070;
+}
+.highlight {
+	background:#F0E0D6;
+	color:#800000;
+	border: 2px dashed #EEAA88;
+}
+
+.reflinkpreview {
+	background-color: #F0E0D6 !important;
+}
+</style>
+<center>
+<h1><p style="font-family: hack">#TheLinuxClan</h1></p>
+<hr>
+<hr>
+<br>
+<h2><p style="font-family: Candy Beans"><!--#echo var="REMOTE_ADDR" --></p></h2>
+<p style="font-family: Candy Beans"><!--#echo var="HTTP_USER_AGENT" --></p>
